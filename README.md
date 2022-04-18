@@ -1,7 +1,7 @@
 ## Olá! Me chamo Lucas Wilian 😎💯🚀
 
 [![Blog](https://img.shields.io/website?label=Blank-site.com&style=for-the-badge&url=https://https://blank-site.herokuapp.com/)](https://blank-site.herokuapp.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://https://www.youtube.com/channel/UCU2FA7I_Y9IeC6GJT6oavMg)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCU2FA7I_Y9IeC6GJT6oavMg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_wilianrs/)
 
 ![Lucas-Wilian GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Wilian&show_icons=true&theme=tokyonight&count_private=true)
